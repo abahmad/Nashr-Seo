@@ -1,9 +1,13 @@
-# Qalep-plugin
+# NasherSeo -plugin
 
 ## Description
-Qalep Plugin is  wordpress plugin a drag-and-drop page builder that lets you create and customize web pages with ease. It offers a user-friendly interface for building layouts without writing code.
-The address book contain the following data:
+Nasher is a  SEO plugin designed to optimize your WordPress website for search engines like Google and Bing. With user-friendly tools for on-page optimization, automatic meta tag generation, sitemap creation, and performance analysis, Nasher helps you improve your rankings and drive more organic traffic effectively.
 
+!Alt [text](screenshot-1.png)
+!Alt [text](screenshot-2.png)
+!Alt [text](screenshot-3.png)
+!Alt [text](screenshot-4.png)
+!Alt [text](screenshot-4.png)
 ## Installation
 
 ```
