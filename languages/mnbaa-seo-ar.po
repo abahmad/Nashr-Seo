@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mnbaa_seo\n"
+"POT-Creation-Date: 2014-11-05 10:09+0200\n"
+"PO-Revision-Date: 2014-11-05 10:16+0200\n"
+"Last-Translator: Amr Shabory <amr.shabory@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: F:\\xampp\\htdocs\\wordpress-en\\wp-content\\plugins\n"
+"X-Poedit-SearchPath-0: F:\\xampp\\htdocs\\wordpress-en\\wp-content\\plugins"
+"\\nashr-seo\n"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:8
+msgid "Search Engine Optimization"
+msgstr "تهيئة الموقع لملائمة محركات البحث"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:11
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:287
+msgid "Social Media"
+msgstr "المواقع الإجتماعية "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:19
+msgid "Snippet Preview"
+msgstr "عرض النتيجة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:24
+msgid ""
+"This is a rendering of what this post might look like in Google search "
+"results."
+msgstr "نموذج  لما يمكن ان يكون عليه البوست عند عرضه فى نتائج جوجول"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:27
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:99
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:98
+msgid "Description"
+msgstr "الوصف"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:32
+msgid ""
+"Description of the content (it will viewed as the description of search "
+"result)"
+msgstr "وصف المحتوى (سوف يتم عرض النص كوصف يظهر اسفل نتائج محركات البحث)"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:35
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:73
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:96
+msgid "Title"
+msgstr "العنوان"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:40
+msgid "If you leave this input blank defulte title will be used"
+msgstr "إذا تركت هذا الحقل فارغا سوف يتم استخدام العنوان الإفتراضي للمقال "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:43
+msgid "Keywords"
+msgstr "الكلمات المفتاحية "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:48
+msgid "keywords that related to content EX:(car,motors,spare parts)"
+msgstr ""
+"كلمات مفتاحية تعبر عن المحتوى ويفضل ان تكون مذكورة بداخل المحتوى مثل "
+"(سيارات , محركات , قطع غيار)"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:51
+msgid "Robots"
+msgstr "الروبوت"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:56
+msgid "How makes content available through search results.EX:noindex, nofollow"
+msgstr "إختيار كيفية عرض المحتوى فى نتائج البحث مثال:(noindex,nofollow)"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:61
+msgid "Author"
+msgstr "المؤلف"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:66
+msgid "Goolge+ Account of the author"
+msgstr "حساب جوجل بلس الخاص بالمؤلف"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:78
+msgid "The title of your article."
+msgstr "عنوان المنشور على المواقع الإجتماعية "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:81
+msgid "Type"
+msgstr "نوع المنشور "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:86
+msgid ""
+"Different types of media will change how your content shows up in Facebook's "
+"newsfeed"
+msgstr "الإختيار يحدد طريقة ظهور المنشور فى صفحة اخر الاخبار فى موقع الفيسبوك "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:87
+msgid "article"
+msgstr "مقال "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:87
+msgid "blog"
+msgstr "مدونة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:90
+msgid "Image"
+msgstr "الصورة "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:95
+msgid "We suggest that you use an image of at least 1200x630 pixels"
+msgstr "لأفضل طريقة لعرض الصورة يفضل ان تكون 1200 X 630 بكسل "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:104
+msgid "A detailed description of the piece of content"
+msgstr "وصف تفصيلي لمحتوى المنشور "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:109
+msgid "Twitter card"
+msgstr "تدوينة  تويتر"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:114
+msgid "How twitter view  your post"
+msgstr "تحدد كيف يتعامل موقع تويتر مع المنشور الخاص بك "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:116
+msgid "Summary"
+msgstr " ملخص(الإفتراضي) "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:117
+msgid "summary_large_image"
+msgstr "ملخص مع صورة "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:118
+msgid "photo"
+msgstr "صورة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:119
+msgid "gallery"
+msgstr "معرض صور"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:120
+msgid "product"
+msgstr " منتج"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:121
+msgid "app"
+msgstr " تطبيق"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:122
+msgid "player"
+msgstr "  مشغل ميديا"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:130
+msgid "Facebook settings"
+msgstr "إعدادات الفيسبوك "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:133
+msgid "Twitter settings"
+msgstr "إعدادات تويتر "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:137
+msgid "Webmaster settings"
+msgstr "إعدادات أدوات مديري المواقع"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:143
+msgid "Site Name"
+msgstr "اسم الموقع "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:148
+msgid ""
+"The name of your website. Not the URL, but the name. (i.e. \"Mnbaa\" not "
+"\"mnbaa.com\".)"
+msgstr ""
+"يرجى إدخال اسم موقعك وليس الرابط  - مثلا (\"منبع لحلول الأعمال والإنترنت\"  "
+"وليس mnbaa.com)"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:151
+msgid "Facebook Application Id"
+msgstr "رقم معرف تطبيق الفيسبوك"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:156
+msgid ""
+"The application unique id that lets Facebook know the identity of your site"
+msgstr ""
+"الرقم المعرف لتطبيق الفيسبوك لكي يستطيع موقع الفيسبوك تمييز المنشورات الخاصة "
+"بموقعك "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:160
+msgid "Facebook admin Id"
+msgstr "رقم معرف حساب الفيسبوك"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:165
+msgid "Id of facebook account that create the facebook application"
+msgstr "الرقم المعرف الخاص بحساب الفيسبوك الذي قام بإنشاء التطبيق"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:171
+msgid "Twitter user ID"
+msgstr "الرقم المعرف لحساب تويتر "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:176
+msgid "User ID of twitter content creator"
+msgstr ""
+"الرقم المعرف لحساب تويتر الخاص بمشىء المحتوى لكي يقوم موقع تويتر بالتعرف على "
+"تدوينات الموقع"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:182
+msgid "Google Webmaster Tools"
+msgstr "كود تأكيد جوجل لمديري المواقع"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:189
+msgid ""
+"&lt; meta name=\"google-site-verification\" content=\"1234xxxxxxxxxxxxxx\" "
+"&gt;"
+msgstr ""
+"مثال &lt; meta name=\"google-site-verification\" content=\"1234xxxxxxxxxxxxxx"
+"\" &gt;"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:193
+msgid "Alexa Verification ID"
+msgstr "كود تأكيد موقع أليكسا"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:200
+msgid "&lt; meta name=\"alexaVerifyID\" content=\"1234xxxxxxxxxxxxxx\" &gt;"
+msgstr ""
+"مثال &lt; meta name=\"alexaVerifyID\" content=\"1234xxxxxxxxxxxxxx\" &gt;"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:204
+msgid "Bing Webmaster Tools"
+msgstr "كود تأكيد محرك بحث بينح "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:211
+msgid "&lt;meta name=\"msvalidate.01\" content=\"1234xxxxxxxxxxxxxx\"&gt;"
+msgstr ""
+"مثال &lt;meta name=\"msvalidate.01\" content=\"1234xxxxxxxxxxxxxx\"&gt;"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:215
+msgid "Pinterest"
+msgstr "كود تأكيد موقع بينترست"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:222
+msgid "&lt; meta name=\"p:domain_verify\" content=\"1234xxxxxxxxxxxxxx\" &gt;"
+msgstr ""
+"مثال &lt; meta name=\"p:domain_verify\" content=\"1234xxxxxxxxxxxxxx\" &gt;"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:225
+msgid "Yandex Webmaster Tools"
+msgstr "كود تأكيد موقع ياندكس"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/arrays.php:232
+msgid ""
+"&lt;meta name=\"yandex-verification\" content=\"1234xxxxxxxxxxxxxx\"&gt;"
+msgstr ""
+"مثال &lt;meta name=\"yandex-verification\" content=\"1234xxxxxxxxxxxxxx\"&gt;"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:55
+msgid "Choose Image"
+msgstr "إختيار الصورة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:56
+msgid "Remove Image"
+msgstr "حذف الصورة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:95
+msgid "Key Word"
+msgstr "الكلمة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:97
+msgid "Content"
+msgstr "المحتوى"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:99
+msgid "Premalink"
+msgstr " الرابط"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:100
+msgid "Meta Values"
+msgstr "قيم الميتا"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/mnbaa_functions.php:101
+msgid "Heading"
+msgstr "الترويسة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:13
+msgid ""
+"Nashr SEO by <a href=\"http://mnbaa.com\" target=\"_blank\" style=\"text-"
+"decoration: none;font-size: 14px;\">Mnbaa</a> "
+msgstr ""
+"نشر لتهيئة الموقع لملائمة محركات البحث - <a href=\"http://mnbaa.com\" target="
+"\"_blank\" style=\"text-decoration: none;font-size: 14px;\">منبع لحلول "
+"الأعمال والإنترنت</a> "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:277
+msgid "Nashr SEO Settings"
+msgstr "إعدادات نشر "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:277
+msgid "Nashr SEO"
+msgstr "نشر"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:280
+msgid "Nashr SEO license"
+msgstr "ترخيص نشر"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:286
+msgid "Social Media Setting"
+msgstr "إعدادات المواقع الإجتماعية "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:320
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:326
+msgid "Posts and pages which seo available to them"
+msgstr "أنواع المقالات والصفحات التى تعمل عليها الإضافة "
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:335
+msgid "Select all"
+msgstr "إختيار الكل"
+
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:357
+#: F:\xampp\htdocs\wordpress-en\wp-content\plugins\nashr-seo/includes/wp_functions.php:423
+msgid "Save"
+msgstr "حفظ "
+
+#~ msgid "Your license key is Invalid you can get a new key from here "
+#~ msgstr ""
+#~ "لم يتم ترخيص المنتج او كود الترخيص الخاص بك غير صحيح يمكنك الحصول على "
+#~ "كود  ترخيص جديد من هنا "
+
+#~ msgid "Get new license key"
+#~ msgstr "الحصول على كود ترخيص جديد"
+
+#~ msgid "If you have a new license key you can insert it here "
+#~ msgstr "إذا حصلت على كود ترخيص جديد يمكنك إدخاله من هنا "
+
+#~ msgid "insert license key here"
+#~ msgstr "إدخال كود ترخيص جديد"
+
+#~ msgid "Your license key is expired you can get a new key from here "
+#~ msgstr ""
+#~ "كود الترخيص الخاص بك منتهى الصلاحية يمكنك الحصول على كود  ترخيص جديد من "
+#~ "هنا "
+
+#~ msgid "Your license key is suspended you can get a new key from here "
+#~ msgstr ""
+#~ "كود الترخيص الخاص بك تم إيقافه يمكنك الحصول على كود  ترخيص جديد من هنا "
+
+#~ msgid "Mnbaa SEO"
+#~ msgstr "محركات البحث "
+
+#~ msgid ""
+#~ "You can get new serial number from <a href=\"http://clientarea.mnbaa.com/"
+#~ "\" target=\"_blank\">Mnbaa client area</a>"
+#~ msgstr ""
+#~ "يمكنك الحصول على كود ترخيص جديد من  <a href=\"http://clientarea.mnbaa.com/"
+#~ "\" target=\"_blank\">منطقة عملاء منبع</a>"
+
+#~ msgid "Serial Number"
+#~ msgstr "كود الترخيص "
+
+#~ msgid "This product has been licensed successfully"
+#~ msgstr "لقد تم ترخيص المنتج بنجاح"
+
+#~ msgid "This product may be not licensed yet or your license key is Invalid"
+#~ msgstr "هذا المنتج إما لم يتم ترخيصه بعد او تم إدخال كود ترخيص غير صحيح "
+
+#~ msgid " your license key has been expired"
+#~ msgstr "كود التخيص الخاص بك منتهى الصلاحية "
+
+#~ msgid " your license key has been suspended"
+#~ msgstr "كود الترخيص الخاص بك تم إيقافه "
+
+#~ msgid "WP blugin fom make SEO and Social SEO."
+#~ msgstr "بلاجن اس ايه اوه "
+
+#~ msgid "Mnbaa SEO "
+#~ msgstr "تهيئة الموقع لملائمة محركات البحث - منبع"
+
+#~ msgid " Setting"
+#~ msgstr " Setting"
+
+#~ msgid "ENTER YOUR FACEBOOK USER ID HERE"
+#~ msgstr "الرقم المعرف لحساب الفيسبوك الذي قام بإنشاء التطبيق "

@@ -1,0 +1,133 @@
+#nashr-autoCompleteArea {
+		border: 1px solid #ddd;
+		width: 550px;
+	}
+	.word{
+		width: 130px;
+		background: red;
+		margin: 0px;
+	}
+ .form-table #nashr-autoCompleteArea input[type='text'] {
+		border: none;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		width: 399px;
+	}
+	.token-input-token-hidden {
+		display: none;
+	}
+
+	ul.token-input-list {
+		overflow: hidden;
+		height: auto !important;
+		height: 1%;
+		width:550px;
+		/*border: 1px solid #999;*/
+		cursor: text;
+		font-size: 12px;
+		font-family: Verdana;
+		z-index: 999;
+		margin: 0;
+		padding: 0;
+		background-color: #fff;
+		list-style-type: none;
+		clear: left;
+	}
+
+	ul.token-input-list li {
+		list-style-type: none;
+	}
+	li.nashr-input-token{
+		overflow: hidden;
+		height: auto !important;
+		height: 1%;
+		margin: 3px;
+		padding: 3px 5px;
+		/*background-color: #2ea2cc;*/
+		color: #fff;
+		font-weight: bold;
+		cursor: default;
+		display: block;
+	}
+	
+	ul.token-input-list.hidden-ul li {
+		background-color: #c2c2c2;
+		color: #FFFFFF;
+	}
+	li.nashr-input-token p {
+		float: left;
+		padding: 0;
+		margin: 0 40px 0px 12px;
+	}
+	li.nashr-input-token .title{
+		width:100px;
+	}
+	li.nashr-input-token span {
+		float: right;
+		color: #fff;
+		cursor: pointer;
+	}
+	ul.token-input-list li input{
+		margin: 0 5px;
+		width: 150px!important;
+		float: right;
+		border: 1px solid #ddd;
+		-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+		box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+		background-color: #fff;
+		color: #333;
+		-webkit-transition: .05s border-color ease-in-out;
+		transition: .05s border-color ease-in-out;
+		font-weight: normal;
+	}
+	.li-heads span{
+		
+		font-size: 13px;
+		margin: 0px 0px 0px 10px;
+		
+	}
+	.li-heads .title-span{
+		margin-left: 80px;
+		
+	}
+#mnbaasnippet .url{
+	color: #006621;
+font-style: normal;
+}	
+#mnbaasnippet .title {
+	display: block;
+	overflow: hidden;
+	width: 512px;
+	color: #1e0fbe;
+	font-size: 18px!important;
+	line-height: 1.2;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	text-decoration: none;
+}
+#mnbaasnippet .title:hover{
+	text-decoration:underline;
+	
+}
+.percent{
+	display: none;
+}
+
+li.red{
+	background-color: #FF0000;
+}
+li.green{
+	background-color: #7ad03a;
+}
+li.orange{
+	background-color: #ffba00;
+}
+li.yello {
+	background-color: yellow;
+}
+
+
+
+
+
+
